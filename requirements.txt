@@ -1,6 +1,10 @@
-gunicorn
 flask
 flask-cors
-yt-dlp
-librosa
+demucs
+torch==2.1.0
+torchaudio==2.1.0
+numpy<2.0
 soundfile
+librosa
+essentia
+yt-dlp>=2024.0.0
