@@ -1,8 +1,6 @@
+gunicorn
 flask
 flask-cors
-demucs
-torch==2.1.0
-torchaudio==2.1.0
 numpy<2.0
 soundfile
 librosa
